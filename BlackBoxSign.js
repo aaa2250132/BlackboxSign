@@ -8,7 +8,7 @@ heybox_id在请求参数中
 cookie里面只需要pkey和x_xhh_tokenid
 把这三个拼接起来，格式如下。（多账号换行或&隔开）
 
-export BLACKBOX_COOKIE="heybox_id#pkey=xxxxxx;x_xhh_tokenid=xxxxxx&heybox_id#pkey=xxxxxx;x_xhh_tokenid=xxxxxx"
+export BLACKBOX_COOKIE="heybox_id#pkey=87252709;x_xhh_tokenid=BrVxMkPpyx91HDFwTLQx1XEk/kgBBLigDeNR1nTWmYtxrJ4KvKqxbY7nV3iUeentzl9wgi05ga11afwXbIqozOA=="
 
 每天运行两次
 
